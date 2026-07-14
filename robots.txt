@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-hwd1it.mcpskills.ru/sitemap.xml
